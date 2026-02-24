@@ -1,0 +1,59 @@
+{
+    "modules": [
+        {
+            "id": "1",
+            "name": "Métier et Formation",
+            "courses": [
+                {
+                    "id": "c_metier",
+                    "title": "Cours Complet : Métier et Formation",
+                    "url": "https://drive.google.com/uc?export=download&id=120YNvLk1AJl0cRfD38BT438LO8bzEdb2"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Notions de Biologie",
+            "courses": [
+                {
+                    "id": "c_biolo",
+                    "title": "Cours Complet : Notions de Biologie",
+                    "url": "https://drive.google.com/uc?export=download&id=1k3kKLbLkPFnbBayxxk3WfYuF8fibj8BF"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Anatomie et Physiologie",
+            "courses": [
+                {
+                    "id": "c_anato",
+                    "title": "Cours Complet : Anatomie et Physiologie",
+                    "url": "https://drive.google.com/uc?export=download&id=1cRqbWeauerVQM0QcIx1jKFQ0wLZLmEHf"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Communication adaptée en situation professionnelle",
+            "courses": [
+                {
+                    "id": "c_comm",
+                    "title": "Cours Complet : Communication adaptée",
+                    "url": "https://drive.google.com/uc?export=download&id=1d_AnKDpqfLRFMvXNiOqPvI9W48uUOfJb"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Les Règles d’hygiène Hospitalière et Prévention du Risque Infectieux",
+            "courses": [
+                {
+                    "id": "c_hygiene",
+                    "title": "Cours Complet : Règles d'hygiène Hospitalière",
+                    "url": "https://drive.google.com/uc?export=download&id=1z6aYDEKnepVG8206Ev68mSODrxIJAWBg"
+                }
+            ]
+        }
+    ]
+}
