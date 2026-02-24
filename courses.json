@@ -13,7 +13,7 @@
         },
         {
             "id": "1",
-            "name": "Métier et Formation",
+            "name": "💼 Métier et Formation",
             "courses": [
                 {
                     "id": "c_metier",
@@ -24,7 +24,7 @@
         },
         {
             "id": "2",
-            "name": "Notions de Biologie",
+            "name": "🔬 Notions de Biologie",
             "courses": [
                 {
                     "id": "c_biolo",
@@ -35,7 +35,7 @@
         },
         {
             "id": "3",
-            "name": "Anatomie et Physiologie",
+            "name": "🦴 Anatomie et Physiologie",
             "courses": [
                 {
                     "id": "c_anato",
@@ -46,7 +46,7 @@
         },
         {
             "id": "4",
-            "name": "Communication adaptée en situation professionnelle",
+            "name": "🗣️ Communication adaptée en situation professionnelle",
             "courses": [
                 {
                     "id": "c_comm",
@@ -57,7 +57,7 @@
         },
         {
             "id": "5",
-            "name": "Les Règles d’hygiène Hospitalière et Prévention du Risque Infectieux",
+            "name": "🧼 Les Règles d’hygiène Hospitalière et Prévention du Risque Infectieux",
             "courses": [
                 {
                     "id": "c_hygiene",
