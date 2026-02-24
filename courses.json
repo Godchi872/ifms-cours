@@ -1,6 +1,17 @@
 {
     "modules": [
         {
+            "id": "0",
+            "name": "📅 Emploi du Temps (Semaine)",
+            "courses": [
+                {
+                    "id": "c_emploi",
+                    "title": "Télécharger le planning de la semaine",
+                    "url": "https://drive.google.com/uc?export=download&id=1VpzYye7_HH6Z6hb7_2n5pXBiYeHoxVc-"
+                }
+            ]
+        },
+        {
             "id": "1",
             "name": "Métier et Formation",
             "courses": [
