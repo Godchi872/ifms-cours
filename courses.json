@@ -7,7 +7,7 @@
                 {
                     "id": "c_emploi",
                     "title": "Télécharger le planning de la semaine",
-                    "url": "https://drive.google.com/uc?export=download&id=1mdRu61VPbAORx1BFMrwrjzMaOUAU7doH"
+                    "url": "https://drive.google.com/uc?export=download&id=1VpzYye7_HH6Z6hb7_2n5pXBiYeHoxVc-"
                 }
             ]
         },
@@ -57,12 +57,23 @@
         },
         {
             "id": "5",
-            "name": "🧼 Les Règles d’hygiène Hospitalière et Prévention du Risque Infectieux",
+            "name": "🧼 Les Règles d'hygiène Hospitalière et Prévention du Risque Infectieux",
             "courses": [
                 {
                     "id": "c_hygiene",
                     "title": "Cours Complet : Règles d'hygiène Hospitalière",
                     "url": "https://drive.google.com/uc?export=download&id=1z6aYDEKnepVG8206Ev68mSODrxIJAWBg"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "💻 Culture et Technique avancées de Numirique",
+            "courses": [
+                {
+                    "id": "c_culture_num",
+                    "title": "Cours Complet : Culture et Technique avancées de Numirique",
+                    "url": "https://drive.google.com/uc?export=download&id=1YExDy6spjIilbEJG8ncwh8uUzH-6Lfv-"
                 }
             ]
         }
